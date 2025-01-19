@@ -1,5 +1,5 @@
 ```markdown
-# Audio Splitter
+# Wave Splitter
 
 A web application that allows users to visualize and split audio files based on speaker segments. It provides an interactive waveform visualization and enables downloading individual speaker segments.
 
