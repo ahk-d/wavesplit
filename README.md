@@ -3,7 +3,7 @@
 
 A web application that allows users to visualize and split audio files based on speaker segments. It provides an interactive waveform visualization and enables downloading individual speaker segments.
 
-![Audio Splitter Screenshot](public/screenshot.png)
+![Audio Splitter Screenshot](screenshot.jpeg)
 
 ## Features
 
